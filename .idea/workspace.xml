@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0408/ValidWordAbbreviation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0408/ValidWordAbbreviationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0229/MajorityElementII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0229/ProblemExplanation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0229/MajorityElementIITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,15 +88,15 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a0229" />
       <recent name="problemset.a0408" />
       <recent name="problemset.a1343" />
       <recent name="problemset.a0080" />
       <recent name="problemset.a0896" />
-      <recent name="problemset.a0328" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ValidWordAbbreviationTest.test_validWordAbbr_one">
-    <configuration name="MonotonicArrayTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.MajorityElementIITest">
+    <configuration name="MajorityElementIITest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -108,7 +109,31 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0896.MonotonicArrayTest&quot;" />
+            <option value="&quot;problemset.a0229.MajorityElementIITest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="MajorityElementIITest.testMajorityElements_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;problemset.a0229.MajorityElementIITest.testMajorityElements_1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -167,30 +192,6 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="RemoveDuplicatesfromSortedArrayIITest.test_removeDups_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;problemset.a0080.RemoveDuplicatesfromSortedArrayIITest.test_removeDups_1&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
     <configuration name="ValidWordAbbreviationTest.test_validWordAbbr_one" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -217,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MajorityElementIITest" />
+        <item itemvalue="Gradle.MajorityElementIITest.testMajorityElements_1" />
         <item itemvalue="Gradle.ValidWordAbbreviationTest.test_validWordAbbr_one" />
         <item itemvalue="Gradle.NumOfSubArraysTest.test_numOfSubArrays_1" />
         <item itemvalue="Gradle.RemoveDuplicatesfromSortedArrayIITest" />
-        <item itemvalue="Gradle.RemoveDuplicatesfromSortedArrayIITest.test_removeDups_1" />
-        <item itemvalue="Gradle.MonotonicArrayTest" />
       </list>
     </recent_temporary>
   </component>

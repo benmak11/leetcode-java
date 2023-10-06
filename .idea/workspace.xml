@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0229/MajorityElementII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0229/ProblemExplanation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0229/MajorityElementIITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/googleOA/socialMedia/SocialMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/googleOA/socialMedia/SocialMediaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,14 +88,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="googleOA.socialMedia" />
+      <recent name="problemset.a0343" />
       <recent name="problemset.a0229" />
       <recent name="problemset.a0408" />
       <recent name="problemset.a1343" />
-      <recent name="problemset.a0080" />
-      <recent name="problemset.a0896" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MajorityElementIITest">
+  <component name="RunManager" selected="Gradle.SocialMediaTest.collapseEvents">
     <configuration name="MajorityElementIITest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -168,7 +168,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="RemoveDuplicatesfromSortedArrayIITest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SocialMediaTest.collapseEvents" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -181,7 +181,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0080.RemoveDuplicatesfromSortedArrayIITest&quot;" />
+            <option value="&quot;googleOA.socialMedia.SocialMediaTest.collapseEvents&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -218,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SocialMediaTest.collapseEvents" />
         <item itemvalue="Gradle.MajorityElementIITest" />
         <item itemvalue="Gradle.MajorityElementIITest.testMajorityElements_1" />
         <item itemvalue="Gradle.ValidWordAbbreviationTest.test_validWordAbbr_one" />
         <item itemvalue="Gradle.NumOfSubArraysTest.test_numOfSubArrays_1" />
-        <item itemvalue="Gradle.RemoveDuplicatesfromSortedArrayIITest" />
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +252,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/problemset/a1343/NumOfSubArrays.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/googleOA/socialMedia/SocialMedia.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0229/MajorityElementII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0229/ProblemExplanation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0229/MajorityElementIITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,11 +85,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a0343" />
       <recent name="problemset.a0229" />
       <recent name="problemset.a0408" />
       <recent name="problemset.a1343" />
       <recent name="problemset.a0080" />
-      <recent name="problemset.a0896" />
     </key>
   </component>
   <component name="RunManager" selected="Gradle.IntegerBreakTest">

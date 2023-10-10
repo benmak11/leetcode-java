@@ -72,16 +72,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "2303"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;2303&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -94,7 +94,7 @@
       <recent name="problemset.a1343" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CalculateAmountPaidInTaxesTest">
+  <component name="RunManager" selected="Gradle.SingleNumberTest">
     <configuration name="CalculateAmountPaidInTaxesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -191,7 +191,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="MajorityElementIITest.testMajorityElements_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SingleNumberTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -204,7 +204,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0229.MajorityElementIITest.testMajorityElements_1&quot;" />
+            <option value="&quot;problemset.a0136.SingleNumberTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -217,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SingleNumberTest" />
         <item itemvalue="Gradle.CalculateAmountPaidInTaxesTest" />
         <item itemvalue="Gradle.CalculateAmountPaidInTaxesTest.calculateTax" />
         <item itemvalue="Gradle.IntegerBreakTest" />
         <item itemvalue="Gradle.MajorityElementIITest" />
-        <item itemvalue="Gradle.MajorityElementIITest.testMajorityElements_1" />
       </list>
     </recent_temporary>
   </component>

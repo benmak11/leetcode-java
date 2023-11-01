@@ -24,14 +24,14 @@ class FindModeInBinarySearchTreeTest {
     @Test
     void testfindMode_v1() {
         int[] expectedResult = new int[] {2};
-        int[] actualResult = find.bfs_findMode(testcaseOne);
+        int[] actualResult = find.findMode(testcaseOne);
         assertArrayEquals(expectedResult, actualResult);
     }
 
     @Test
     void testfindMode_v2() {
         int[] expectedResult = new int[] {0};
-        int[] actualResult = find.bfs_findMode(testcaseTwo);
+        int[] actualResult = find.findMode(testcaseTwo);
         assertArrayEquals(expectedResult, actualResult);
     }
 }

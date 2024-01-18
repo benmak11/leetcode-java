@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a1700/NumOfStudentsCantEatSandwiches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a1700/NumOfStudentsCantEatSandwichesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0070/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0070/ClimbingStairsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,14 +86,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a0070" />
       <recent name="problemset.a1700" />
       <recent name="problemset.a1441" />
       <recent name="problemset.a0501" />
       <recent name="problemset.a0938" />
-      <recent name="problemset.a0136" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.NumOfStudentsCantEatSandwichesTest">
+  <component name="RunManager" selected="Gradle.ClimbingStairsTest">
     <configuration name="BuildAnArrayWithStackOpaerationsTest.test_buildArray_v1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -119,7 +118,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="FindModeInBinarySearchTreeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ClimbingStairsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -132,7 +131,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0501.FindModeInBinarySearchTreeTest&quot;" />
+            <option value="&quot;problemset.a0070.ClimbingStairsTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -217,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ClimbingStairsTest" />
         <item itemvalue="Gradle.NumOfStudentsCantEatSandwichesTest" />
         <item itemvalue="Gradle.NumOfStudentsCantEatSandwichesTest.test_countStudents_v2" />
         <item itemvalue="Gradle.NumOfStudentsCantEatSandwichesTest.test_countStudents" />
         <item itemvalue="Gradle.BuildAnArrayWithStackOpaerationsTest.test_buildArray_v1" />
-        <item itemvalue="Gradle.FindModeInBinarySearchTreeTest" />
       </list>
     </recent_temporary>
   </component>

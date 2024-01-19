@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0070/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0070/ClimbingStairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0931/MinFallingPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0931/MinFallingPathSumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,31 +93,7 @@
       <recent name="problemset.a0938" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ClimbingStairsTest">
-    <configuration name="BuildAnArrayWithStackOpaerationsTest.test_buildArray_v1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;problemset.a1441.BuildAnArrayWithStackOpaerationsTest.test_buildArray_v1&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.MinFallingPathSumTest">
     <configuration name="ClimbingStairsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -132,6 +108,30 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;problemset.a0070.ClimbingStairsTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="MinFallingPathSumTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;problemset.a0931.MinFallingPathSumTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -216,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MinFallingPathSumTest" />
         <item itemvalue="Gradle.ClimbingStairsTest" />
         <item itemvalue="Gradle.NumOfStudentsCantEatSandwichesTest" />
         <item itemvalue="Gradle.NumOfStudentsCantEatSandwichesTest.test_countStudents_v2" />
         <item itemvalue="Gradle.NumOfStudentsCantEatSandwichesTest.test_countStudents" />
-        <item itemvalue="Gradle.BuildAnArrayWithStackOpaerationsTest.test_buildArray_v1" />
       </list>
     </recent_temporary>
   </component>

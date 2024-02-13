@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a2108/FirstPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a2108/FirstPalindromeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0704/BinarySearchOnSortedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +51,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,8 +92,8 @@
       <recent name="problemset.a1441" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FirstPalindromeTest">
-    <configuration name="EvaluateReversePolishNotationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.BinarySearchOnSortedListTest">
+    <configuration name="BinarySearchOnSortedListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -108,7 +106,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0150.EvaluateReversePolishNotationTest&quot;" />
+            <option value="&quot;problemset.a0704.BinarySearchOnSortedListTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -119,7 +117,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="EvaluateReversePolishNotationTest.evalRPN_3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="BinarySearchOnSortedListTest.test_binarySearch" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -132,7 +130,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0150.EvaluateReversePolishNotationTest.evalRPN_3&quot;" />
+            <option value="&quot;problemset.a0704.BinarySearchOnSortedListTest.test_binarySearch&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -217,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.BinarySearchOnSortedListTest" />
+        <item itemvalue="Gradle.BinarySearchOnSortedListTest.test_binarySearch" />
         <item itemvalue="Gradle.FirstPalindromeTest" />
         <item itemvalue="Gradle.FirstPalindromeTest.test_firstPalindrome" />
         <item itemvalue="Gradle.MajorityElementTest" />
-        <item itemvalue="Gradle.EvaluateReversePolishNotationTest" />
-        <item itemvalue="Gradle.EvaluateReversePolishNotationTest.evalRPN_3" />
       </list>
     </recent_temporary>
   </component>

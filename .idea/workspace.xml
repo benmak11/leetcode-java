@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0704/BinarySearchOnSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a2149/RearrangeArrayElementsBySign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a2149/RearrangeArrayElementsBySignTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +52,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -92,7 +93,7 @@
       <recent name="problemset.a1441" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.BinarySearchOnSortedListTest">
+  <component name="RunManager" selected="Gradle.RearrangeArrayElementsBySignTest">
     <configuration name="BinarySearchOnSortedListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -189,7 +190,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="MajorityElementTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RearrangeArrayElementsBySignTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -202,7 +203,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0169.MajorityElementTest&quot;" />
+            <option value="&quot;problemset.a2149.RearrangeArrayElementsBySignTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -215,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RearrangeArrayElementsBySignTest" />
         <item itemvalue="Gradle.BinarySearchOnSortedListTest" />
         <item itemvalue="Gradle.BinarySearchOnSortedListTest.test_binarySearch" />
         <item itemvalue="Gradle.FirstPalindromeTest" />
         <item itemvalue="Gradle.FirstPalindromeTest.test_firstPalindrome" />
-        <item itemvalue="Gradle.MajorityElementTest" />
       </list>
     </recent_temporary>
   </component>

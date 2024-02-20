@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a2971/FindPolygonWIthTheLargestPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a2971/FindPolygonWIthTheLargestPerimeterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0268/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0268/MissingNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,14 +87,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a0268" />
       <recent name="problemset.a2971" />
       <recent name="problemset.a2108" />
       <recent name="problemset.a0150" />
       <recent name="problemset.a0070" />
-      <recent name="problemset.a1700" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FindPolygonWIthTheLargestPerimeterTest">
+  <component name="RunManager" selected="Gradle.MissingNumberTest">
     <configuration name="BinarySearchOnSortedListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -108,30 +109,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;problemset.a0704.BinarySearchOnSortedListTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="BinarySearchOnSortedListTest.test_binarySearch" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;problemset.a0704.BinarySearchOnSortedListTest.test_binarySearch&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -190,6 +167,30 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
+    <configuration name="MissingNumberTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;problemset.a0268.MissingNumberTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration name="RearrangeArrayElementsBySignTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -216,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MissingNumberTest" />
         <item itemvalue="Gradle.FindPolygonWIthTheLargestPerimeterTest" />
         <item itemvalue="Gradle.FindPolygonWIthTheLargestPerimeterTest.test_largestPerimeter_4" />
         <item itemvalue="Gradle.RearrangeArrayElementsBySignTest" />
         <item itemvalue="Gradle.BinarySearchOnSortedListTest" />
-        <item itemvalue="Gradle.BinarySearchOnSortedListTest.test_binarySearch" />
       </list>
     </recent_temporary>
   </component>

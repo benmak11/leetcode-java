@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0268/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0268/MissingNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0201/BitwiseANDofNumbersRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0201/BitwiseANDofNumbersRangeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +93,8 @@
       <recent name="problemset.a0070" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MissingNumberTest">
-    <configuration name="BinarySearchOnSortedListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.BitwiseANDofNumbersRangeTest">
+    <configuration name="BitwiseANDofNumbersRangeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -108,7 +107,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0704.BinarySearchOnSortedListTest&quot;" />
+            <option value="&quot;problemset.a0201.BitwiseANDofNumbersRangeTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -217,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.BitwiseANDofNumbersRangeTest" />
         <item itemvalue="Gradle.MissingNumberTest" />
         <item itemvalue="Gradle.FindPolygonWIthTheLargestPerimeterTest" />
         <item itemvalue="Gradle.FindPolygonWIthTheLargestPerimeterTest.test_largestPerimeter_4" />
         <item itemvalue="Gradle.RearrangeArrayElementsBySignTest" />
-        <item itemvalue="Gradle.BinarySearchOnSortedListTest" />
       </list>
     </recent_temporary>
   </component>

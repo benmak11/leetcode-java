@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0201/BitwiseANDofNumbersRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0201/BitwiseANDofNumbersRangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0997/FindTheTownJudge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0997/FindTheTownJudgeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <recent name="problemset.a0070" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.BitwiseANDofNumbersRangeTest">
+  <component name="RunManager" selected="Gradle.FindTheTownJudgeTest">
     <configuration name="BitwiseANDofNumbersRangeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -142,7 +142,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="FindPolygonWIthTheLargestPerimeterTest.test_largestPerimeter_4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FindTheTownJudgeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -155,7 +155,31 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a2971.FindPolygonWIthTheLargestPerimeterTest.test_largestPerimeter_4&quot;" />
+            <option value="&quot;problemset.a0997.FindTheTownJudgeTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="FindTheTownJudgeTest.test_findJudge" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;problemset.a0997.FindTheTownJudgeTest.test_findJudge&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -190,37 +214,13 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="RearrangeArrayElementsBySignTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;problemset.a2149.RearrangeArrayElementsBySignTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FindTheTownJudgeTest" />
+        <item itemvalue="Gradle.FindTheTownJudgeTest.test_findJudge" />
         <item itemvalue="Gradle.BitwiseANDofNumbersRangeTest" />
         <item itemvalue="Gradle.MissingNumberTest" />
         <item itemvalue="Gradle.FindPolygonWIthTheLargestPerimeterTest" />
-        <item itemvalue="Gradle.FindPolygonWIthTheLargestPerimeterTest.test_largestPerimeter_4" />
-        <item itemvalue="Gradle.RearrangeArrayElementsBySignTest" />
       </list>
     </recent_temporary>
   </component>

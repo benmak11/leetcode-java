@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a2864/MaximumOddBinaryNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a2485/FIndThePivotInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a2485/FIndThePivotIntegerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +52,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -86,15 +86,15 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a2485" />
       <recent name="problemset.a0513" />
       <recent name="problemset.a0268" />
       <recent name="problemset.a2971" />
       <recent name="problemset.a2108" />
-      <recent name="problemset.a0150" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MaximumOddBinaryNumberTest">
-    <configuration name="BitwiseANDofNumbersRangeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.FIndThePivotIntegerTest">
+    <configuration name="FIndThePivotIntegerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -107,7 +107,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0201.BitwiseANDofNumbersRangeTest&quot;" />
+            <option value="&quot;problemset.a2485.FIndThePivotIntegerTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -216,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FIndThePivotIntegerTest" />
         <item itemvalue="Gradle.MaximumOddBinaryNumberTest" />
         <item itemvalue="Gradle.FindBottomLeftTreeValueTest" />
         <item itemvalue="Gradle.FindTheTownJudgeTest" />
         <item itemvalue="Gradle.FindTheTownJudgeTest.test_findJudge" />
-        <item itemvalue="Gradle.BitwiseANDofNumbersRangeTest" />
       </list>
     </recent_temporary>
   </component>

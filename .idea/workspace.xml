@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a2485/FIndThePivotInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a2485/FIndThePivotIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0162/FindPeakElementAltered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0162/FindPeakElementAlteredTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +53,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -76,7 +78,8 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
@@ -86,14 +89,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a0162" />
       <recent name="problemset.a2485" />
       <recent name="problemset.a0513" />
       <recent name="problemset.a0268" />
       <recent name="problemset.a2971" />
-      <recent name="problemset.a2108" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FIndThePivotIntegerTest">
+  <component name="RunManager" selected="Gradle.FindPeakElementTest.findPeakElement2">
     <configuration name="FIndThePivotIntegerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -142,7 +145,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="FindTheTownJudgeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FindPeakElementTest.findPeakElement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -155,7 +158,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0997.FindTheTownJudgeTest&quot;" />
+            <option value="&quot;problemset.a0162.FindPeakElementTest.findPeakElement&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -166,7 +169,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="FindTheTownJudgeTest.test_findJudge" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FindPeakElementTest.findPeakElement2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -179,7 +182,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0997.FindTheTownJudgeTest.test_findJudge&quot;" />
+            <option value="&quot;problemset.a0162.FindPeakElementTest.findPeakElement2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -216,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FindPeakElementTest.findPeakElement2" />
+        <item itemvalue="Gradle.FindPeakElementTest.findPeakElement" />
         <item itemvalue="Gradle.FIndThePivotIntegerTest" />
         <item itemvalue="Gradle.MaximumOddBinaryNumberTest" />
         <item itemvalue="Gradle.FindBottomLeftTreeValueTest" />
-        <item itemvalue="Gradle.FindTheTownJudgeTest" />
-        <item itemvalue="Gradle.FindTheTownJudgeTest.test_findJudge" />
       </list>
     </recent_temporary>
   </component>

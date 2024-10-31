@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0162/FindPeakElementAltered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0162/FindPeakElementAlteredTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0020/IsBalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a0020/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0020/IsBalancedParenthesesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a0020/ValidParenthesesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +55,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -73,31 +75,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a0020" />
       <recent name="problemset.a0162" />
       <recent name="problemset.a2485" />
       <recent name="problemset.a0513" />
       <recent name="problemset.a0268" />
-      <recent name="problemset.a2971" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FindPeakElementTest.findPeakElement2">
-    <configuration name="FIndThePivotIntegerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.IsBalancedParanthesesTest">
+    <configuration name="IsBalancedParanthesesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -110,7 +112,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a2485.FIndThePivotIntegerTest&quot;" />
+            <option value="&quot;problemset.a0020.IsBalancedParanthesesTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -121,7 +123,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="FindBottomLeftTreeValueTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="IsBalancedParanthesesTest.test_isBalanced1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -134,7 +136,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0513.FindBottomLeftTreeValueTest&quot;" />
+            <option value="&quot;problemset.a0020.IsBalancedParanthesesTest.test_isBalanced1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -145,7 +147,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="FindPeakElementTest.findPeakElement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="IsBalancedParanthesesTest.test_isBalanced2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -158,7 +160,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0162.FindPeakElementTest.findPeakElement&quot;" />
+            <option value="&quot;problemset.a0020.IsBalancedParanthesesTest.test_isBalanced2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -169,7 +171,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="FindPeakElementTest.findPeakElement2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ValidParenthesesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -182,7 +184,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0162.FindPeakElementTest.findPeakElement2&quot;" />
+            <option value="&quot;problemset.a0020.ValidParenthesesTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -193,7 +195,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="MaximumOddBinaryNumberTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ValidParenthesesTest.test_validParentheses1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -206,7 +208,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a2864.MaximumOddBinaryNumberTest&quot;" />
+            <option value="&quot;problemset.a0020.ValidParenthesesTest.test_validParentheses1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -219,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FindPeakElementTest.findPeakElement2" />
-        <item itemvalue="Gradle.FindPeakElementTest.findPeakElement" />
-        <item itemvalue="Gradle.FIndThePivotIntegerTest" />
-        <item itemvalue="Gradle.MaximumOddBinaryNumberTest" />
-        <item itemvalue="Gradle.FindBottomLeftTreeValueTest" />
+        <item itemvalue="Gradle.IsBalancedParanthesesTest" />
+        <item itemvalue="Gradle.IsBalancedParanthesesTest.test_isBalanced2" />
+        <item itemvalue="Gradle.IsBalancedParanthesesTest.test_isBalanced1" />
+        <item itemvalue="Gradle.ValidParenthesesTest" />
+        <item itemvalue="Gradle.ValidParenthesesTest.test_validParentheses1" />
       </list>
     </recent_temporary>
   </component>

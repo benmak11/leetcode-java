@@ -5,9 +5,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class FIndThePivotIntegerTest {
+class FindThePivotIntegerTest {
 
-    private FIndThePivotInteger find;
+    private FindThePivotInteger find;
 
     private int testcaseOne;
     private int testcaseTwo;
@@ -15,7 +15,7 @@ class FIndThePivotIntegerTest {
 
     @BeforeEach
     void setUp() {
-        find = new FIndThePivotInteger();
+        find = new FindThePivotInteger();
 
         testcaseOne = 8;
         testcaseTwo = 1;

@@ -1,6 +1,6 @@
 package problemset.a2485;
 
-public class FIndThePivotInteger {
+public class FindThePivotInteger {
 
     public int pivotInteger(int n) {
         int s = n * (n + 1) / 2;

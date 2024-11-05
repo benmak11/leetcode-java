@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a3163/StringCompressionIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a3163/StringCompressionIIITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a2914/MinimumNumberOfChangesToMakeBinaryStringBeautiful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a2914/MinimumNumberOfChangesToMakeBinaryStringBeautifulTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +65,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2W00hkvRxThhszrMjXUYFpZdrUW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -82,6 +81,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Gradle.FindThePivotIntegerTest.executor": "Run",
+    "Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest.executor": "Run",
     "Gradle.StringCompressionIIITest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -97,14 +97,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a2914" />
       <recent name="problemset.a3163" />
       <recent name="problemset.a0020" />
       <recent name="problemset.a0162" />
       <recent name="problemset.a2485" />
-      <recent name="problemset.a0513" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.StringCompressionIIITest">
+  <component name="RunManager" selected="Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest">
     <configuration name="DeleteCharactersToMakeFancyStringTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -177,7 +177,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="IsBalancedParanthesesTest.test_isBalanced2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MinimumNumberOfChangesToMakeBinaryStringBeautifulTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -190,7 +190,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0020.IsBalancedParanthesesTest.test_isBalanced2&quot;" />
+            <option value="&quot;problemset.a2914.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -227,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest" />
         <item itemvalue="Gradle.StringCompressionIIITest" />
         <item itemvalue="Gradle.DeleteCharactersToMakeFancyStringTest" />
         <item itemvalue="Gradle.FindThePivotIntegerTest" />
         <item itemvalue="Gradle.IsBalancedParanthesesTest" />
-        <item itemvalue="Gradle.IsBalancedParanthesesTest.test_isBalanced2" />
       </list>
     </recent_temporary>
   </component>

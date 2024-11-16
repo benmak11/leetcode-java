@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a2914/MinimumNumberOfChangesToMakeBinaryStringBeautiful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a2914/MinimumNumberOfChangesToMakeBinaryStringBeautifulTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a3254/FindThePowerOfKSizeSubarrayI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a3254/FindThePowerOfKSizeSubarrayITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,10 +82,12 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Gradle.FindThePivotIntegerTest.executor": "Run",
+    "Gradle.FindThePowerOfKSizeSubarrayITest.executor": "Run",
     "Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest.executor": "Run",
     "Gradle.StringCompressionIIITest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
@@ -97,14 +100,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a3254" />
       <recent name="problemset.a2914" />
       <recent name="problemset.a3163" />
       <recent name="problemset.a0020" />
       <recent name="problemset.a0162" />
-      <recent name="problemset.a2485" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest">
+  <component name="RunManager" selected="Gradle.FindThePowerOfKSizeSubarrayITest">
     <configuration name="DeleteCharactersToMakeFancyStringTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -153,7 +156,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="IsBalancedParanthesesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FindThePowerOfKSizeSubarrayITest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -166,7 +169,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a0020.IsBalancedParanthesesTest&quot;" />
+            <option value="&quot;problemset.a3254.FindThePowerOfKSizeSubarrayITest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -227,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FindThePowerOfKSizeSubarrayITest" />
         <item itemvalue="Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest" />
         <item itemvalue="Gradle.StringCompressionIIITest" />
         <item itemvalue="Gradle.DeleteCharactersToMakeFancyStringTest" />
         <item itemvalue="Gradle.FindThePivotIntegerTest" />
-        <item itemvalue="Gradle.IsBalancedParanthesesTest" />
       </list>
     </recent_temporary>
   </component>

@@ -101,14 +101,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problemset.a2337" />
       <recent name="problemset.a2109" />
       <recent name="problemset.a3254" />
       <recent name="problemset.a2914" />
       <recent name="problemset.a3163" />
-      <recent name="problemset.a0020" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AddingSpacesToAStringTest">
+  <component name="RunManager" selected="Gradle.MovePiecesToObtainAStringTest.canChange_One">
     <configuration name="AddingSpacesToAStringTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -205,7 +205,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="StringCompressionIIITest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MovePiecesToObtainAStringTest.canChange_One" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -218,7 +218,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a3163.StringCompressionIIITest&quot;" />
+            <option value="&quot;problemset.a2337.MovePiecesToObtainAStringTest.canChange_One&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -231,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MovePiecesToObtainAStringTest.canChange_One" />
         <item itemvalue="Gradle.AddingSpacesToAStringTest" />
         <item itemvalue="Gradle.AddingSpacesToAStringTest.test_addingSpaces_1" />
         <item itemvalue="Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest" />
         <item itemvalue="Gradle.FindThePowerOfKSizeSubarrayITest" />
-        <item itemvalue="Gradle.StringCompressionIIITest" />
       </list>
     </recent_temporary>
   </component>

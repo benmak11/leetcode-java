@@ -19,20 +19,26 @@ public class TreeNode {
         this.right = _right;
     }
 
-    public TreeNode buildTree(List<Integer> list) {
-        if (list.size() == 0)
+    public TreeNode buildTree(String[] list) {
+        if (list.length == 0)
             return null;
 
         return buildTreeHelper(list, 0);
     }
 
-    private TreeNode buildTreeHelper(List<Integer> list, int index) {
-        if (index >= list.size())
+    private TreeNode buildTreeHelper(String[] list, int index) {
+        if (index >= list.length)
                 return null;
 
-        TreeNode node = new TreeNode(list.get(index));
+        if (list[index] == null)
+            return null;
+
+        int val = Integer.parseInt(list[index]);
+
+        TreeNode node = new TreeNode(val);
         node.left = buildTreeHelper(list, 2 * index + 1);
         node.right = buildTreeHelper(list, 2 * index + 2);
+
         return node;
     }
 }

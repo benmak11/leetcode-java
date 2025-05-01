@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bd69d2-2768-4085-98bb-3fb6bb68de4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/problemset/a1261/FindingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/problemset/a1261/FindingElementsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceinterviews/hellointerview/EvaluateQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceinterviews/hellointerview/EvaluateQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practiceinterviews/hellointerview/EvaluateQueryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practiceinterviews/hellointerview/EvaluateQueryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,40 +80,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Gradle.AddingSpacesToAStringTest.executor": "Run",
-    "Gradle.AddingSpacesToAStringTest.test_addingSpaces_1.executor": "Run",
-    "Gradle.FindThePivotIntegerTest.executor": "Run",
-    "Gradle.FindThePowerOfKSizeSubarrayITest.executor": "Run",
-    "Gradle.FindingElementsTest.find.executor": "Run",
-    "Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest.executor": "Run",
-    "Gradle.StringCompressionIIITest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.AddingSpacesToAStringTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AddingSpacesToAStringTest.test_addingSpaces_1.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.EvaluateQueryTest.test_evaluateQueryOne.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FindThePivotIntegerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FindThePowerOfKSizeSubarrayITest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FindingElementsTest.find.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.MinimumNumberOfChangesToMakeBinaryStringBeautifulTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StringCompressionIIITest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hello-interview-question&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/benmakusha/development/leetcode-java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="practiceinterviews.hellointerview" />
       <recent name="problemset.a1261" />
       <recent name="problemset.a2337" />
       <recent name="problemset.a2109" />
       <recent name="problemset.a3254" />
-      <recent name="problemset.a2914" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FindingElementsTest">
+  <component name="RunManager" selected="Gradle.EvaluateQueryTest.test_evaluateQueryOne">
     <configuration name="AddingSpacesToAStringTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -137,7 +140,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="AddingSpacesToAStringTest.test_addingSpaces_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="EvaluateQueryTest.test_evaluateQueryOne" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -150,7 +153,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;problemset.a2109.AddingSpacesToAStringTest.test_addingSpaces_1&quot;" />
+            <option value="&quot;practiceinterviews.hellointerview.EvaluateQueryTest.test_evaluateQueryOne&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -235,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.EvaluateQueryTest.test_evaluateQueryOne" />
         <item itemvalue="Gradle.FindingElementsTest" />
         <item itemvalue="Gradle.FindingElementsTest.find" />
         <item itemvalue="Gradle.MovePiecesToObtainAStringTest.canChange_One" />
         <item itemvalue="Gradle.AddingSpacesToAStringTest" />
-        <item itemvalue="Gradle.AddingSpacesToAStringTest.test_addingSpaces_1" />
       </list>
     </recent_temporary>
   </component>

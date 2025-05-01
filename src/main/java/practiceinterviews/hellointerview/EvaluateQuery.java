@@ -1,8 +1,8 @@
 package practiceinterviews.hellointerview;
 
-public class EvaluteQuery {
+public class EvaluateQuery {
 
-    public static boolean evaluateQueryString(String query, int x) {
+    public boolean evaluateQueryString(String query, int x) {
         String exp = query.replace("X", String.valueOf(x));
 
         exp = exp.trim();
@@ -12,7 +12,7 @@ public class EvaluteQuery {
         return evaluate(exp);
     }
 
-    private static boolean evaluate(String exp) {
+    private boolean evaluate(String exp) {
         exp = exp.trim();
 
         if (exp.startsWith("(")) {
@@ -39,5 +39,33 @@ public class EvaluteQuery {
             String[] parts = exp.split("\\|\\|", 2);
             return evaluate(parts[0]) && evaluate(parts[1]);
         }
+
+        if (exp.contains("<=")) {
+            String[] parts = exp.split("<=", 2);
+            return Integer.parseInt(parts[0].trim()) <= Integer.parseInt(parts[1].trim());
+        }
+        if (exp.contains(">=")) {
+            String[] parts = exp.split(">=", 2);
+            return Integer.parseInt(parts[0].trim()) >= Integer.parseInt(parts[1].trim());
+        }
+        if (exp.contains("<")) {
+            String[] parts = exp.split("<", 2);
+            return Integer.parseInt(parts[0].trim()) < Integer.parseInt(parts[1].trim());
+        }
+        if (exp.contains(">")) {
+            String[] parts = exp.split(">", 2);
+            return Integer.parseInt(parts[0].trim()) > Integer.parseInt(parts[1].trim());
+        }
+        if (exp.contains("==")) {
+            String[] parts = exp.split("==", 2);
+            return Integer.parseInt(parts[0].trim()) == Integer.parseInt(parts[1].trim());
+        }
+        if (exp.contains("!=")) {
+            String[] parts = exp.split("!=", 2);
+            return Integer.parseInt(parts[0].trim()) != Integer.parseInt(parts[1].trim());
+        }
+
+        // If it's a single value, parse it as a boolean
+        return Boolean.parseBoolean(exp);
     }
 }

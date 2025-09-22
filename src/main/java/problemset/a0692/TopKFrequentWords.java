@@ -8,8 +8,8 @@ public class TopKFrequentWords {
         for (String w : words) {
             wordCount.put(w, wordCount.getOrDefault(w, 0) + 1);
         }
-        List<String> res = new ArrayList(wordCount.keySet());
-        Collections.sort(res, (w1, w2) -> wordCount.get(w1).equals(wordCount.get(w2)) ?
+        List<String> res = new ArrayList<>(List.copyOf(wordCount.keySet()));
+        res.sort((w1, w2) -> wordCount.get(w1).equals(wordCount.get(w2)) ?
                 w1.compareTo(w2) : wordCount.get(w2) - wordCount.get(w1));
 
         return res.subList(0, k);

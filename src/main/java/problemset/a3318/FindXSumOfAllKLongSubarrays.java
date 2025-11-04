@@ -35,6 +35,18 @@ public class FindXSumOfAllKLongSubarrays {
                         .limit(x)
                         .mapToInt(p -> p.num * p.count)
                         .sum();
+                // List<Pair> pairs = new ArrayList<>();
+                // for (var entry : count.entrySet())
+                //     pairs.add(new Pair(entry.getKey(), entry.getValue()));
+
+                // Collections.sort(pairs);
+
+                // int curSum = 0;
+                // for (int j = 0; j < x; j++) {
+                //     Pair pair = pairs.get(j);
+                //     curSum += pair.num * pair.count;
+                // }
+                // res[i] = curSum;
             }
         }
         return res;
